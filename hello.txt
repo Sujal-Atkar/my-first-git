@@ -1,1 +1,2 @@
 "Hello Git"
+"Hello EveryOne My Self Sujal, Currently Pursuing MCA, and very excited to use git and github to commit my codes"
